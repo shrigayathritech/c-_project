@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4BwEeHzS3HgDuh4TU5pRX6GvSqN5v542Jo8mVR9pubzu9so2KrcZ0V150osyXWmCuA&usqp=CAU)
+![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Shrigayathri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
