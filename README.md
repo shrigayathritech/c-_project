@@ -1,4 +1,4 @@
-<img src="https://pics.craiyon.com/2023-09-29/5d332012eacf4bc282978a8c01f748c4.webp" width="500" height="200">
+<img src="https://pics.craiyon.com/2023-09-29/5d332012eacf4bc282978a8c01f748c4.webp" width="100" height="200">
 
 
 <h1 align="center">Hi 👋, I'm Shrigayathri</h1>
